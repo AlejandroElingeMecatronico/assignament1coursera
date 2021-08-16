@@ -1,0 +1,2 @@
+/*My name is Hector Alejandro Pereyra Vargas and in the next project contained in the stats.c and stats.h files, I proceed to calculate the basic statistical parameters of an unsigned char array of 40.
+The following project is intended for week 1 of the Introduction to Embedded Systems Software and Development Environments course. For the same, with the implementation of the C language, perform through functions where they took as values an unsigned char pointer and an integer of value 40, from which they returned values that will later be printed on the screen.*/
